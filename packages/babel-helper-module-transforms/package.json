@@ -15,10 +15,10 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "@babel/helper-environment-visitor": "workspace:^",
+    "@babel/helper-environment-visitor": "7.16.5",
     "@babel/helper-module-imports": "workspace:^",
     "@babel/helper-simple-access": "workspace:^",
-    "@babel/helper-split-export-declaration": "workspace:^",
+    "@babel/helper-split-export-declaration": "7.0.0",
     "@babel/helper-validator-identifier": "workspace:^"
   },
   "devDependencies": {
