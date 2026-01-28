@@ -20,12 +20,12 @@
     "decorators"
   ],
   "dependencies": {
-    "@babel/helper-create-class-features-plugin": "workspace:^",
+    "@babel/helper-create-class-features-plugin": "7.2.0",
     "@babel/helper-plugin-utils": "workspace:^",
     "@babel/helper-replace-supers": "workspace:^",
     "@babel/helper-skip-transparent-expression-wrappers": "workspace:^",
     "@babel/helper-split-export-declaration": "workspace:^",
-    "@babel/plugin-syntax-decorators": "workspace:^"
+    "@babel/plugin-syntax-decorators": "7.0.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0"
